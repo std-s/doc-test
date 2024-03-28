@@ -150,13 +150,6 @@ Now that you have an installable app, publish it to Google Play and App Store.
 │  │        ├─ participant_info.dart  // Construct situations such as microphones for attendees.
 │  │        └─ toolsbar.dart  // The toolbar at the bottom of the conference room.
 ```
-## Community
-
-- 📚 [OpenIM Community](https://github.com/OpenIMSDK/community)
-- 💕 [OpenIM Interest Group](https://github.com/Openim-sigs)
-- 🚀 [Join our Slack community](https://join.slack.com/t/openimsdk/shared_invite/zt-22720d66b-o_FvKxMTGXtcnnnHiMqe9Q)
-- :eyes: [Join our wechat (微信群)](https://openim-1253691595.cos.ap-nanjing.myqcloud.com/WechatIMG20.jpeg)
-
 ## Contributing
 
 OpenMeeting is a fully open-source project, and we welcome contributions. Information on how to get started can be found in [our contributor guide](/CONTRIBUTING.md).
