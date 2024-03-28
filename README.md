@@ -24,7 +24,7 @@ Open Meeting is a prebuilt component that helps you to build full-featured meeti
 
 * **Build quickly**. After cloning the code and compiling the project, you can quickly build a complete app.
 
-* **Customizable**. Supports custom themes, locales and more. Check our [documentation](/DOC.md) for the info. More options are on the way, let us know if something is missing.
+* **Customizable**. Supports custom themes, locales and more. Check our project for the info. More options are on the way, let us know if something is missing.
   
 ## Check Out Our Sample Apps
 
