@@ -71,7 +71,7 @@ static const _host = "127.0.0.1"; <~ Enter the server address (IP or domain name
 
 Setp 3: Modify metadata
 
-- ###### 1. Place your app’s icon design into the launcher_icon folder and name it app-icon.png，and Excuting an order:
+- ##### 1. Place your app’s icon design into the launcher_icon folder and name it app-icon.png，and Excuting an order:
 
 ```ruby
 flutter pub get
@@ -80,7 +80,7 @@ flutter pub run flutter_launcher_icons:main
 
 - ##### 2. Replace the app name with what you want.
 
-- ###### Android
+ ###### Android
 
 ```xml
 // openim/android/app/src/main/res/AndroidManifest.xm
@@ -93,7 +93,7 @@ flutter pub run flutter_launcher_icons:main
 </application>
 ```
   
-- ###### iOS
+ ###### iOS
   
 ```xml
 // ios/Runner/Info.plist
